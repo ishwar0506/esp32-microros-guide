@@ -1,4 +1,4 @@
-# 🤖 micro-ROS ESP32-S3 Setup — Complete Guide
+# micro-ROS ESP32-S3 Setup — Complete Guide
 
 A complete, copy-paste ready setup guide for configuring micro-ROS on any new ESP32-S3 device from scratch.
 
